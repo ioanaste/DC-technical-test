@@ -1,0 +1,8 @@
+/Users/ioana.stepanschi/Documents/Personal/Dynamic Credit Assignement/Basic Technical Test/basic-technical-test/TechnicalTestCore/bin/Release/TechnicalTestCore.dll
+/Users/ioana.stepanschi/Documents/Personal/Dynamic Credit Assignement/Basic Technical Test/basic-technical-test/TechnicalTestCore/bin/Release/TechnicalTestCore.pdb
+/Users/ioana.stepanschi/Documents/Personal/Dynamic Credit Assignement/Basic Technical Test/basic-technical-test/TechnicalTestCore/bin/Release/TechnicalTestUtilities.dll
+/Users/ioana.stepanschi/Documents/Personal/Dynamic Credit Assignement/Basic Technical Test/basic-technical-test/TechnicalTestCore/bin/Release/TechnicalTestUtilities.pdb
+/Users/ioana.stepanschi/Documents/Personal/Dynamic Credit Assignement/Basic Technical Test/basic-technical-test/TechnicalTestCore/obj/Release/TechnicalTestCore.csprojResolveAssemblyReference.cache
+/Users/ioana.stepanschi/Documents/Personal/Dynamic Credit Assignement/Basic Technical Test/basic-technical-test/TechnicalTestCore/obj/Release/TechnicalTestCore.csproj.CoreCompileInputs.cache
+/Users/ioana.stepanschi/Documents/Personal/Dynamic Credit Assignement/Basic Technical Test/basic-technical-test/TechnicalTestCore/obj/Release/TechnicalTestCore.dll
+/Users/ioana.stepanschi/Documents/Personal/Dynamic Credit Assignement/Basic Technical Test/basic-technical-test/TechnicalTestCore/obj/Release/TechnicalTestCore.pdb

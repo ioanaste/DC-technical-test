@@ -1,0 +1,5 @@
+/Users/ioana.stepanschi/Documents/Personal/Dynamic Credit Assignement/Basic Technical Test/basic-technical-test/TechnicalTestUtilities/bin/Release/TechnicalTestUtilities.dll
+/Users/ioana.stepanschi/Documents/Personal/Dynamic Credit Assignement/Basic Technical Test/basic-technical-test/TechnicalTestUtilities/bin/Release/TechnicalTestUtilities.pdb
+/Users/ioana.stepanschi/Documents/Personal/Dynamic Credit Assignement/Basic Technical Test/basic-technical-test/TechnicalTestUtilities/obj/Release/TechnicalTestUtilities.csproj.CoreCompileInputs.cache
+/Users/ioana.stepanschi/Documents/Personal/Dynamic Credit Assignement/Basic Technical Test/basic-technical-test/TechnicalTestUtilities/obj/Release/TechnicalTestUtilities.dll
+/Users/ioana.stepanschi/Documents/Personal/Dynamic Credit Assignement/Basic Technical Test/basic-technical-test/TechnicalTestUtilities/obj/Release/TechnicalTestUtilities.pdb
