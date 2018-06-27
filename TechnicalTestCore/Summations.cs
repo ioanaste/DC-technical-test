@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 
 namespace TechnicalTestCore
 {
@@ -9,37 +8,30 @@ namespace TechnicalTestCore
         {
             // Adapt the method body to make the corresponding unit test in 'TechnicalTestUnitTests' pass
 
-            List<long> triangleNumbersList = GetListOfTriangleNumbers(1, maxNrAsInt);
+            int Sum = 0;
 
-            return (int)triangleNumbersList[maxNrAsInt - 1];
+            for (int i = 1; i <= maxNrAsInt; i++)
+            {
+                Sum = Sum + i;
+            }
+
+            return Sum;
         }
 
         public static string SumOfNumbersFrom1TillNrAsString(string maxNrAsString)
         {
             // Adapt the method body to make the corresponding unit test in 'TechnicalTestUnitTests' pass
-           
+
             int maxNrAsInt = Int32.Parse(maxNrAsString);
 
-            List<string> triangleNumbersListOfStrings = new List<string>();
+            long Sum = 0;
 
-            List<long> triangleNumbersListOfInts = GetListOfTriangleNumbers(70_000, maxNrAsInt);
-            triangleNumbersListOfStrings = triangleNumbersListOfInts.ConvertAll(x => x.ToString());
-
-            return triangleNumbersListOfStrings[maxNrAsInt - 70_000];
-        }
-
-        static List<long> GetListOfTriangleNumbers(int startNumber, int maxNrAsInt)
-        {
-            Int64 triangleNumber = 0;
-            List<Int64> triangleNumbersList = new List<Int64>();
-
-            for (Int64 i = startNumber; i <= maxNrAsInt; i++)
+            for (int i = 1; i <= maxNrAsInt; i++)
             {
-                triangleNumber = i * (i + 1) / 2;
-                triangleNumbersList.Add(triangleNumber);
+                Sum = Sum + i;
             }
 
-            return triangleNumbersList;
+            return Sum.ToString();
         }
     }
 }

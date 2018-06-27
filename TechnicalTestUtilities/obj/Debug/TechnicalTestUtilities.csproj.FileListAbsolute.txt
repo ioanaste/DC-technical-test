@@ -3,3 +3,8 @@
 /Users/ioana.stepanschi/Documents/Personal/Dynamic Credit Assignement/Basic Technical Test/basic-technical-test/TechnicalTestUtilities/obj/Debug/TechnicalTestUtilities.csproj.CoreCompileInputs.cache
 /Users/ioana.stepanschi/Documents/Personal/Dynamic Credit Assignement/Basic Technical Test/basic-technical-test/TechnicalTestUtilities/obj/Debug/TechnicalTestUtilities.dll
 /Users/ioana.stepanschi/Documents/Personal/Dynamic Credit Assignement/Basic Technical Test/basic-technical-test/TechnicalTestUtilities/obj/Debug/TechnicalTestUtilities.pdb
+/Users/ioana.stepanschi/Documents/Personal/Results/Technical Test/TechnicalTestUtilities/bin/Debug/TechnicalTestUtilities.dll
+/Users/ioana.stepanschi/Documents/Personal/Results/Technical Test/TechnicalTestUtilities/bin/Debug/TechnicalTestUtilities.pdb
+/Users/ioana.stepanschi/Documents/Personal/Results/Technical Test/TechnicalTestUtilities/obj/Debug/TechnicalTestUtilities.csproj.CoreCompileInputs.cache
+/Users/ioana.stepanschi/Documents/Personal/Results/Technical Test/TechnicalTestUtilities/obj/Debug/TechnicalTestUtilities.dll
+/Users/ioana.stepanschi/Documents/Personal/Results/Technical Test/TechnicalTestUtilities/obj/Debug/TechnicalTestUtilities.pdb

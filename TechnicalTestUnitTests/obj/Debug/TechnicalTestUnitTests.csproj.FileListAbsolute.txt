@@ -25,3 +25,30 @@
 /Users/ioana.stepanschi/Documents/Personal/Dynamic Credit Assignement/Basic Technical Test/basic-technical-test/TechnicalTestUnitTests/obj/Debug/TechnicalTestUnitTests.csproj.CoreCompileInputs.cache
 /Users/ioana.stepanschi/Documents/Personal/Dynamic Credit Assignement/Basic Technical Test/basic-technical-test/TechnicalTestUnitTests/obj/Debug/TechnicalTestUnitTests.dll
 /Users/ioana.stepanschi/Documents/Personal/Dynamic Credit Assignement/Basic Technical Test/basic-technical-test/TechnicalTestUnitTests/obj/Debug/TechnicalTestUnitTests.pdb
+/Users/ioana.stepanschi/Documents/Personal/Results/Technical Test/TechnicalTestUnitTests/bin/Debug/xunit.runner.visualstudio.testadapter.dll
+/Users/ioana.stepanschi/Documents/Personal/Results/Technical Test/TechnicalTestUnitTests/bin/Debug/xunit.runner.reporters.net452.dll
+/Users/ioana.stepanschi/Documents/Personal/Results/Technical Test/TechnicalTestUnitTests/bin/Debug/xunit.runner.utility.net452.dll
+/Users/ioana.stepanschi/Documents/Personal/Results/Technical Test/TechnicalTestUnitTests/bin/Debug/xunit.abstractions.dll
+/Users/ioana.stepanschi/Documents/Personal/Results/Technical Test/TechnicalTestUnitTests/bin/Debug/TechnicalTestUnitTests.dll.config
+/Users/ioana.stepanschi/Documents/Personal/Results/Technical Test/TechnicalTestUnitTests/bin/Debug/TechnicalTestUnitTests.dll
+/Users/ioana.stepanschi/Documents/Personal/Results/Technical Test/TechnicalTestUnitTests/bin/Debug/TechnicalTestUnitTests.pdb
+/Users/ioana.stepanschi/Documents/Personal/Results/Technical Test/TechnicalTestUnitTests/bin/Debug/FluentAssertions.dll
+/Users/ioana.stepanschi/Documents/Personal/Results/Technical Test/TechnicalTestUnitTests/bin/Debug/System.ValueTuple.dll
+/Users/ioana.stepanschi/Documents/Personal/Results/Technical Test/TechnicalTestUnitTests/bin/Debug/TechnicalTestCore.dll
+/Users/ioana.stepanschi/Documents/Personal/Results/Technical Test/TechnicalTestUnitTests/bin/Debug/TechnicalTestUtilities.dll
+/Users/ioana.stepanschi/Documents/Personal/Results/Technical Test/TechnicalTestUnitTests/bin/Debug/xunit.assert.dll
+/Users/ioana.stepanschi/Documents/Personal/Results/Technical Test/TechnicalTestUnitTests/bin/Debug/xunit.core.dll
+/Users/ioana.stepanschi/Documents/Personal/Results/Technical Test/TechnicalTestUnitTests/bin/Debug/xunit.execution.desktop.dll
+/Users/ioana.stepanschi/Documents/Personal/Results/Technical Test/TechnicalTestUnitTests/bin/Debug/TechnicalTestCore.pdb
+/Users/ioana.stepanschi/Documents/Personal/Results/Technical Test/TechnicalTestUnitTests/bin/Debug/TechnicalTestUtilities.pdb
+/Users/ioana.stepanschi/Documents/Personal/Results/Technical Test/TechnicalTestUnitTests/bin/Debug/FluentAssertions.pdb
+/Users/ioana.stepanschi/Documents/Personal/Results/Technical Test/TechnicalTestUnitTests/bin/Debug/FluentAssertions.xml
+/Users/ioana.stepanschi/Documents/Personal/Results/Technical Test/TechnicalTestUnitTests/bin/Debug/System.ValueTuple.xml
+/Users/ioana.stepanschi/Documents/Personal/Results/Technical Test/TechnicalTestUnitTests/bin/Debug/xunit.assert.xml
+/Users/ioana.stepanschi/Documents/Personal/Results/Technical Test/TechnicalTestUnitTests/bin/Debug/xunit.core.xml
+/Users/ioana.stepanschi/Documents/Personal/Results/Technical Test/TechnicalTestUnitTests/bin/Debug/xunit.execution.desktop.xml
+/Users/ioana.stepanschi/Documents/Personal/Results/Technical Test/TechnicalTestUnitTests/obj/Debug/TechnicalTestUnitTests.csprojResolveAssemblyReference.cache
+/Users/ioana.stepanschi/Documents/Personal/Results/Technical Test/TechnicalTestUnitTests/obj/Debug/TechnicalTestUnitTests.dll.config
+/Users/ioana.stepanschi/Documents/Personal/Results/Technical Test/TechnicalTestUnitTests/obj/Debug/TechnicalTestUnitTests.csproj.CoreCompileInputs.cache
+/Users/ioana.stepanschi/Documents/Personal/Results/Technical Test/TechnicalTestUnitTests/obj/Debug/TechnicalTestUnitTests.dll
+/Users/ioana.stepanschi/Documents/Personal/Results/Technical Test/TechnicalTestUnitTests/obj/Debug/TechnicalTestUnitTests.pdb

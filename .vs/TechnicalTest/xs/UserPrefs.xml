@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{550B783F-6563-4878-83C5-0B9A2FC9344F}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TechnicalTestUnitTests/UnitTests.cs">
+    <Files>
+      <File FileName="TechnicalTestCore/Summations.cs" Line="31" Column="31" />
+      <File FileName="TechnicalTestUnitTests/UnitTests.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TechnicalTestUnitTests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
